@@ -1,6 +1,6 @@
 import java.util.*;
 import java.util.Random;
-public class Prob10_game{
+public class Spcgame{
 	public static void main(String[] args){
 	Scanner sc =new Scanner(System.in);
     System.out.println("<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<WELCOME TO MY STONE PAPER SCISSORS GAME>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
